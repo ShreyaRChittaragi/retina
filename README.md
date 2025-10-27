@@ -135,8 +135,3 @@ AI Intern | Data Science Enthusiast | Deep Learning Learner
 
 ```
 
----
-
-Would you like me to include **sample output images / result visualizations** section too (e.g., how to display augmented images side-by-side)?  
-That makes your README look more complete and professional if you’re uploading it to GitHub.
-```
