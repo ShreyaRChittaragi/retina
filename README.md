@@ -118,11 +118,6 @@ Sample images and masks are visualized to confirm preprocessing and augmentation
 
 ---
 
-## 📜 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
 
 ## 🙌 Acknowledgments
 
